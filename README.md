@@ -1,5 +1,5 @@
 # Desafio de projeto da DIO
-Repositório criado para o Desafio de projeto.
+Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis
 
